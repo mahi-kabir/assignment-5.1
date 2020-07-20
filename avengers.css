@@ -1,0 +1,106 @@
+body{
+    font-family: 'Ubuntu';
+    margin:0px;
+}
+
+.name{
+    color:royalblue;
+}
+h2{
+    text-align: center;
+    margin-top: 7%;
+    font-size: 40px;
+    background-color: coral;
+}
+
+.ironman-area{
+    background-image: url("images2/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+   
+
+.ironman{
+    float:left;
+    width:40%;
+    margin-left:5%;
+    padding-left:2%;
+}
+
+.link{
+    text-decoration: none;
+    background-image:linear-gradient(blue,purple);
+    color:white;
+    padding: 10px 20px;
+    border-radius: 7px;
+}
+
+.cap-button{
+    text-decoration: none;
+    background-image:linear-gradient(orange,salmon);
+    color:white;
+    padding: 10px 20px;
+    border-radius: 7px;
+}
+
+.cap{
+    background-image: url("images2/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+section{
+    height:500px;
+}
+
+
+.wandaa{
+    margin-left:60%;
+    height:50%;
+    width:50%;
+    
+}
+
+.wanda{
+    background-image: url("images2/love-bg.jpg");
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+.box{
+    box-shadow: 10px 10px 20px gold;
+    border-radius: 7px;
+    height:50%;
+}
+
+#marvel{
+    border-right: 8px solid;
+    border-image: linear-gradient(180deg, blue,purple);
+    border-image-slice:1;
+}
+
+#thanos{
+
+    border-right: 8px solid;
+    border-image: linear-gradient(180deg, blue,purple);
+    border-image-slice:1;
+}
+
+.foot{
+    text-align: center;
+    color:grey;
+}
+
+.leave{
+    text-align: center;
+    background-color: purple;
+    color:white;
+    font-weight: 600px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin:90px 90px 100px 90px;
+    border-radius:5px;
+}
+
+
+
+
